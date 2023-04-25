@@ -17,3 +17,7 @@ This repository is a public template for creating a web extension for VS Code fo
 ### [mcaddon-package-workflow](https://github.com/AdamRaichu/mcaddon-package-workflow)
 
 This repository contains a reusable workflow for packaging Minecraft Bedrock Edition addons.
+
+## Minecraft Stuff
+
+I have made a couple Minecraft mods/datapacks on modrinth. [Check them out](https://modrinth.com/user/AdamRaichu)!
