@@ -2,22 +2,26 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AdamRaichu&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+## My Programming Knowledge
+
+- I consider myself fluent in JavaScript, HTML, and CSS.
+  - Thanks to my JavaScript knowledge, I also know a bit of Java and TypeScript.
+- I know my way around the extensions API for both Chrome and VS Code.
+- I've made a couple Minecraft mods (Fabric loader). [Check them out](https://modrinth.com/user/AdamRaichu)
+
+## My Contributions to Community Projects
+
+I am the author of the [highlight.js](https://github.com/highlightjs) [grammar for Minecraft's language files](https://github.com/highlightjs/highlightjs-lang).
+
+I [authored/updated descriptions](https://github.com/github/explore/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3Aadamraichu) for several GitHub topics.
+
+I've helped find errors in the [Minecraft Bedrock documentation](https://github.com/MicrosoftDocs/minecraft-creator/issues?q=is%3Aissue+sort%3Aupdated-desc+author%3Aadamraichu+).
+
+I try to help authors of popular VS Code extensions make them compatible with the web. (See below)
+
+- [GitHub Actions for VS Code](https://github.com/github/vscode-github-actions/pull/20)
+- [Snowstorm](https://github.com/JannisX11/snowstorm/pull/61)
+
 ## VS Code Extensions
 
-I have written a few extensions for the popular code editor Visual Studio Code. View them [on the marketplace](https://marketplace.visualstudio.com/publishers/AdamRaichu) or at my [landing page repo](https://github.com/AdamRaichu/vscode-extensions).
-
-## GitHub Tools
-
-I have made a couple repos with tools which I hope may help you.
-
-### [vscode-webext-template](https://github.com/AdamRaichu/vscode-webext-template)
-
-This repository is a public template for creating a web extension for VS Code for the web.
-
-### [mcaddon-package-workflow](https://github.com/AdamRaichu/mcaddon-package-workflow)
-
-This repository contains a reusable workflow for packaging Minecraft Bedrock Edition addons.
-
-## Minecraft Stuff
-
-I have made a couple Minecraft mods/datapacks on modrinth. [Check them out](https://modrinth.com/user/AdamRaichu)!
+I have written a few extensions for the popular code editor Visual Studio Code. View them [on the marketplace](https://marketplace.visualstudio.com/publishers/AdamRaichu) or at [this repo](https://github.com/AdamRaichu/vscode-extensions) _(possibly outdated; I don't update this repo that much)_ about them.
