@@ -1,6 +1,6 @@
 <a href="https://stackexchange.com/users/22989594/adamraichu"><img src="https://stackexchange.com/users/flair/22989594.png" width="208" height="58" alt="profile for AdamRaichu on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for AdamRaichu on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AdamRaichu&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AdamRaichu&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## My Programming Knowledge
 
