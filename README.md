@@ -1,6 +1,8 @@
 ![Stack Exchange Profile](https://stackexchange.com/users/flair/22989594.png?theme=dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AdamRaichu&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AdamRaichu&theme=onedark&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamRaichu&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamRaichu&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Programming Knowledge
 
