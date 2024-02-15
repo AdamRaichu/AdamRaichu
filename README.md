@@ -1,4 +1,4 @@
-![Stack Exchange Profile](https://stackexchange.com/users/flair/22989594.png?theme=dark)
+[![Stack Exchange Profile](https://stackexchange.com/users/flair/22989594.png?theme=dark)](https://gaming.stackexchange.com/users/281304/adamraichu)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamRaichu&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamRaichu&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
