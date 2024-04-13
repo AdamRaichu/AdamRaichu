@@ -1,6 +1,16 @@
+<details>
+<summary>My profiles on other websites.</summary>
+
+<br>
+  
+[<img src="https://avatars.githubusercontent.com/u/67560307?s=200&v=4" width="32" height="32">](https://modrinth.com/user/AdamRaichu) [<img src="https://avatars.githubusercontent.com/u/1390178?s=200&v=4" width="32" height="32">](https://www.curseforge.com/members/adamraichu/) [<img src="https://raw.githubusercontent.com/github/explore/781dbc058383a2ee8259ebbab057292f16172d5e/topics/nexus-mods/nexus-mods.png" width="32" height="32">](https://next.nexusmods.com/profile/AdamRaichu/)
+
 [![Stack Exchange Profile](https://stackexchange.com/users/flair/22989594.png?theme=dark)](https://gaming.stackexchange.com/users/281304/adamraichu)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamRaichu&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamRaichu&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+---
+</details>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamRaichu&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Programming Knowledge
 
