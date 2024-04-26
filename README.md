@@ -22,7 +22,7 @@
 
 ## My Contributions to Community Projects
 
-I am the author of the [highlight.js](https://github.com/highlightjs) [grammar for Minecraft's language files](https://github.com/highlightjs/highlightjs-lang).
+I am the author of the [grammar for Minecraft's language files](https://github.com/highlightjs/highlightjs-lang) for [highlight.js](https://github.com/highlightjs).
 
 I [authored/updated descriptions](https://github.com/github/explore/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3Aadamraichu) for several GitHub topics.
 
