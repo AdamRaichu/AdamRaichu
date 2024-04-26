@@ -18,6 +18,7 @@
   - Thanks to my JavaScript knowledge, I also know a bit of Java and TypeScript.
 - I know my way around the extensions API for both Chrome and VS Code.
 - I've made a couple Minecraft mods (Fabric/Forge loaders). [Check them out](https://modrinth.com/user/AdamRaichu)
+- I've done some work with C++ (Arduino).
 
 ## My Contributions to Community Projects
 
