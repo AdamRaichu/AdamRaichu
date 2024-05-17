@@ -31,7 +31,6 @@ I've helped find errors in the [Minecraft Bedrock documentation](https://github.
 I try to help authors of popular VS Code extensions make them compatible with the web. (See below)
 
 - [GitHub Actions for VS Code](https://github.com/github/vscode-github-actions/pull/20)
-- [Snowstorm](https://github.com/JannisX11/snowstorm/pull/61)
 
 ## VS Code Extensions
 
