@@ -3,14 +3,12 @@
 
 <br>
   
-[<img src="https://avatars.githubusercontent.com/u/67560307?s=200&v=4" width="32" height="32">](https://modrinth.com/user/AdamRaichu) [<img src="https://avatars.githubusercontent.com/u/1390178?s=200&v=4" width="32" height="32">](https://www.curseforge.com/members/adamraichu/) [<img src="https://raw.githubusercontent.com/github/explore/781dbc058383a2ee8259ebbab057292f16172d5e/topics/nexus-mods/nexus-mods.png" width="32" height="32">](https://next.nexusmods.com/profile/AdamRaichu/) [<img src="https://images.gamebanana.com/static/img/favicon/32x32.png" width="32" height="32">](https://gamebanana.com/members/3383401)
+[<img src="https://avatars.githubusercontent.com/u/67560307?s=200&v=4" width="32" height="32">](https://modrinth.com/user/AdamRaichu) [<img src="https://avatars.githubusercontent.com/u/1390178?s=200&v=4" width="32" height="32">](https://www.curseforge.com/members/adamraichu/) [<img src="https://raw.githubusercontent.com/github/explore/781dbc058383a2ee8259ebbab057292f16172d5e/topics/nexus-mods/nexus-mods.png" width="32" height="32">](https://next.nexusmods.com/profile/AdamRaichu/) [<img src="https://images.gamebanana.com/static/img/favicon/32x32.png" width="32" height="32">](https://gamebanana.com/members/3383401) [<img src="https://static.wikia.nocookie.net/robloxcities/images/d/d2/RobloxLogo.png/revision/latest?cb=20230125021936" width="32" height="32">](https://www.roblox.com/users/2647465043/profile)
 
 [![Stack Exchange Profile](https://stackexchange.com/users/flair/22989594.png?theme=dark)](https://gaming.stackexchange.com/users/281304/adamraichu)
 
 ---
 </details>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamRaichu&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Programming Knowledge
 
@@ -18,6 +16,7 @@
   - Thanks to my JavaScript knowledge, I also know a bit of Java and TypeScript.
 - I know my way around the extensions API for both Chrome and VS Code.
 - I've made a couple Minecraft mods (Fabric/Forge loaders). [Check them out](https://modrinth.com/user/AdamRaichu)
+- I have worked just enough with Roblox luau to hate it. ([roblox-ts][roblox-ts] is better)
 - I've done some work with C++ (Arduino).
 
 ## My Contributions to Community Projects
@@ -32,6 +31,10 @@ I try to help authors of popular VS Code extensions make them compatible with th
 
 - [GitHub Actions for VS Code](https://github.com/github/vscode-github-actions/pull/20)
 
+I've adding TypeScript typings (for use with [roblox-ts][roblox-ts]) for a couple Roblox libraries by members of the community. See them [here](https://github.com/AdamRaichu?tab=repositories&q=rbxts&type=source&language=&sort=).
+
 ## VS Code Extensions
 
 I have written a few extensions for the popular code editor Visual Studio Code. View them [on the marketplace](https://marketplace.visualstudio.com/publishers/AdamRaichu) or at [this repo](https://github.com/AdamRaichu/vscode-extensions) _(possibly outdated; I don't update this repo that much)_ about them.
+
+[roblox-ts]: https://roblox-ts.com/
