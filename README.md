@@ -31,7 +31,7 @@ I try to help authors of popular VS Code extensions make them compatible with th
 
 - [GitHub Actions for VS Code](https://github.com/github/vscode-github-actions/pull/20)
 
-I've adding TypeScript typings (for use with [roblox-ts][roblox-ts]) for a couple Roblox libraries by members of the community. See them [here](https://github.com/AdamRaichu?tab=repositories&q=rbxts&type=source&language=&sort=).
+I've added TypeScript typings (for use with [roblox-ts][roblox-ts]) for a couple Roblox libraries by members of the community. See them [here](https://github.com/AdamRaichu?tab=repositories&q=rbxts&type=source&language=&sort=).
 
 ## VS Code Extensions
 
